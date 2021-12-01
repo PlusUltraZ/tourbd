@@ -1,0 +1,197 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+body {
+	line-height: 1.5;
+	font-family: "Poppins", sans-serif;
+	font-weight: 400;
+	overflow-x: hidden;
+}
+html {
+	scroll-behavior: smooth;
+}
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+:before,
+:after {
+	box-sizing: border-box;
+}
+// !Loader section
+// !LOADER SECTION
+.loader_bg {
+	position: fixed;
+	z-index: 999999;
+	background: #ffffff;
+	width: 100%;
+	height: 100%;
+}
+//! CAROUSAL
+.slide{
+	.carousel-inner{
+		.carousel-item{
+			img{
+				width: 100%;
+				height: 600px;
+			}
+			.carousel-caption{
+				h5{
+					margin-bottom:60px;
+					font-size: 60px;
+					font-family: 'Righteous', cursive;
+					color: #f8f8f8;
+					background-color: green;
+					span{
+						background-color: red;
+						border-radius: 50px;
+						padding: 5px;
+					}
+				}
+				p{
+					margin-bottom: 200px;
+				}
+			}
+		}
+	}
+}
+//! CAROUSAL ENDS
+// !Hero Section
+
+// !SECTION INTRODUCTION
+.intro{
+	background-image: url(./sriM.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+.intro-h1{
+	text-align: center;
+	margin-top: -400px;
+	h1{
+		font-size: 60px;
+		font-family: 'Righteous', cursive;
+		color: #f8f8f8;
+		background-color: green;
+		img{
+			width: 100px;
+			height: 100px;
+		}
+	}
+}
+.sec2{
+	margin-top: 328px;
+	background-image: url(./lalbagh-fort.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+.sec3{
+	margin-top: 328px;
+	background-image: url(./khadim.jpg);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+	width: 100%;
+}
+
+// !Footer Section
+.footer{
+	margin-top: 300px;
+	background:#262626;
+	height: auto;
+	.container{
+	display: flex;
+	flex-wrap: wrap;
+	.footer-items{
+		margin-left: 100px;
+		margin: 20px;
+		padding: 10px;
+		h4{
+		font-size: 20px;
+		text-align: center;
+		justify-content: center;
+		color: #ffffff;
+		font-weight: bold;
+		font-family: 'Righteous', cursive;
+		}
+		ul{
+			margin-left: 200px;
+			li{
+				padding: 2px;
+				a{
+					font-size: 15px;
+					text-align: center;
+					justify-content: center;
+					color: #ffffff;
+					font-family: 'Righteous', cursive;
+					&:hover{
+						color: red;
+					}
+				}
+			}
+		}
+	}
+}
+	h1{
+		font-size: 40px;
+		text-align: center;
+		justify-content: center;
+		color: #ffffff;
+		font-weight: bold;
+		font-family: 'Righteous', cursive;
+	}
+	.footer-links{
+		ul{
+			text-align: center;
+			li{
+				a{
+					color: #ffffff;
+					margin-bottom: 5px;
+					&:hover{
+						color: red;
+					}
+				}
+			}
+		}
+	}
+	.copywr{
+		text-align: center;
+		justify-content: center;
+		p{
+			margin-top: 100px;
+			color: #ffffff;
+		}
+	}
+}
+
+
+// !AUDIO SECTION
+.fa-music{
+	position: fixed;
+	right: 15px;
+	bottom: 35px;
+	width: 25px;
+	height: 35px;
+	color: #ff0000;
+	border: 1px solid #ff0000;
+	z-index: 1;
+	cursor: pointer;
+	line-height: 38px;
+	text-align: center;
+	border-radius: 50%;
+	box-shadow: 0 0 10px #ffffff;
+  }
+	.fa-music.pause:after{
+	  content: '';
+	  position: absolute;
+	  left: 50%;
+	  width: 2px;
+	  background-color: #ff0000;
+	  height: 100%;
+	  transform: rotate(-36deg);
+	}
+

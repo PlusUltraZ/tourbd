@@ -1,0 +1,30 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter height="200%" width="200%" y="-50%" x="-50%" id="svg_17_blur">
+   <feGaussianBlur stdDeviation="0" in="SourceGraphic"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#000" transform="rotate(-3.8708231449127197 343.9999694824214,249.49999999999952) " id="svg_2" d="m505.26257,246.98797l21.50168,0l15.84334,0l33.95002,8.37342l26.02835,20.09622l0,25.12027l-26.02835,18.42153l-53.18836,3.34937l-131.2734,-1.67468l-194.64676,-3.34937l-40.74002,-5.02405l-65.6367,0l-5.65834,-25.12027l14.71167,-11.72279l22.63334,-3.34937l5.65834,-95.45704l21.50168,88.7583l169.75008,-5.02405l185.59342,-13.39748z" stroke-opacity="null" stroke-width="1.5" fill="#b50a0a"/>
+  <path stroke="#000" transform="rotate(-14.540905952453613 255.0000152587887,348.9999999999999) " id="svg_3" d="m343.31944,316.35974c0,0 -277.29341,65.28051 -277.29341,65.28051c0,0 377.94796,-51.23281 377.94796,-51.23281c0,0 -100.65455,-14.04771 -100.65455,-14.04771z" stroke-opacity="null" stroke-width="1.5" fill="#44c60b"/>
+  <rect id="svg_4" height="9" width="31" y="366" x="171" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#bf0000"/>
+  <rect id="svg_5" height="9" width="26" y="341" x="218" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#bf0000"/>
+  <rect id="svg_6" height="8" width="30" y="321" x="259" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#bf0000"/>
+  <rect id="svg_7" height="48" width="23" y="263" x="438" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#16770b"/>
+  <path id="svg_8" d="m604,260c0,0 -67,3 -67,3c0,0 -57,-23 -57,-23c0,0 38,-6 38,-6c0,0 35,0 35,0c0,0 25,6 25,6c0,0 26,20 26,20z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#594e4e"/>
+  <path id="svg_9" d="m124,285c0,0 26,-7 26,-7c0,0 -26,-85 -26,-85c0,0 0,92 0,92z" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#44c60b"/>
+  <path stroke="#000" transform="rotate(82.478515625 248.62197875976565,294.90386962890625) " id="svg_10" d="m248.74731,213.41115c-0.51141,0 -0.96641,0.69918 -1.35031,1.96742c-0.38357,1.26721 -0.70085,3.083 -0.96486,5.35075c-0.52796,4.53483 -0.85272,10.90525 -1.03036,18.53443c-0.1773,7.61449 -0.20718,16.48086 -0.13351,25.97214c-6.31718,8.63109 -19.12958,26.45199 -20.15882,30.43101c-1.3703,5.29763 -0.92756,11.36901 -0.37536,15.39943l21.0632,-14.27781c-3.14178,16.14232 1.07829,37.03514 1.62994,51.47544c-2.05986,2.00776 -5.90494,5.97218 -6.69861,8.43057c-1.09334,3.38664 -1.09334,14.3237 -1.09334,14.3237l8.62078,-2.33515c0.20304,4.71442 0.33001,7.46525 0.33001,7.46525l0.0126,0.24823l0.06802,0l0.15871,0l0.06802,0l0.01259,-0.24823c0,0 0.12674,-2.75088 0.33002,-7.46525l8.62329,2.33515c0,0 0.00001,-10.93706 -1.09334,-14.3237c-0.79397,-2.45934 -4.64185,-6.43274 -6.70112,-8.43982c4.23385,-19.36225 1.18244,-32.75417 1.62741,-51.30067l20.81633,14.11229c0.5522,-4.03043 0.99747,-10.10181 -0.37284,-15.39943c-1.0165,-3.92978 -13.51931,-21.35431 -19.91444,-30.10007c0.0764,-9.6143 0.04832,-18.6015 -0.13101,-26.30309l0,-0.01839c-0.17773,-7.62075 -0.50284,-13.98496 -1.03035,-18.51605c-0.26394,-2.2671 -0.57863,-4.08308 -0.96234,-5.35073c-0.38391,-1.26825 -0.8389,-1.96742 -1.3503,-1.96742l-0.00001,0z" stroke-opacity="null" stroke-width="1.5" fill="#44c60b"/>
+  <ellipse ry="7.5" rx="7.5" id="svg_11" cy="295.5" cx="256.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#b50a0a"/>
+  <text stroke="#000" transform="matrix(5.166666507720947,0,0,1.311435580253601,-1699.9999351501465,-75.5961209256202) " xml:space="preserve" text-anchor="start" font-family="'Palatino Linotype', 'Book Antiqua', Palatino, serif" font-size="24" id="svg_16" y="271" x="396" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text filter="url(#svg_17_blur)" font-weight="bold" stroke="#000" transform="rotate(-27.852441787719727 324.9110717773435,313.92193603515625) matrix(0.5995654541083524,0,0,0.6665728749646739,327.4545325687954,107.75822765805289) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_17" y="317.96816" x="-32.55632" stroke-opacity="null" stroke-width="0" fill="#d81111">TB24</text>
+ </g>
+</svg>
